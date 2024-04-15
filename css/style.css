@@ -1,0 +1,12 @@
+body{
+    background-image: url(../assets/img/logobackground.png);
+    background-size: contain;
+    background-position: right top;
+    background-repeat: no-repeat;
+}    
+.darkgrey{
+    background-color: #222326;
+}
+.overflow{
+    overflow: hidden;
+}
